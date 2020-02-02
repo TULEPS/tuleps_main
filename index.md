@@ -13,6 +13,10 @@ The intention of this site is to provide the space weather community with a plac
 - [Presentations from the Workshop "Ensemble Forecasts in Space Weather: Science and Operations"](https://github.com/TULEPS/tuleps_main/blob/master/workshop_m.md)
 - [Ensemble-related software (future)](https://github.com/TULEPS/tuleps_main/blob/master/soft_rep)
 
+### Events
+
+The TULEPS team will meet (partially) during the [Inaugural COSPAR ISWAT Meeting](https://iswat-cospar.org/wm2020) on Feb. 10 - 14, 2020 in Florida, USA.
+
 ### Support or Contact
 
 If you any questions or suggestion, please contact jordan.guerra(at)gmail.com
