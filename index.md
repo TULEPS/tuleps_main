@@ -9,9 +9,9 @@ The main goal of this working team is to coordinate, organize, and develope acti
 The intention of this site is to provide the space weather community with a place to start developing their ensemble research. In this site you can find:
 
 - [Important literature on ensembles](https://github.com/TULEPS/tuleps_main/blob/master/lit.md)
-- References about ensembles in Space Weather.
-- Presentations from the Workshop "Ensemble Forecasts in Space Weather: Science and Operations"
-- Ensemble-related software (future).
+- [References about ensembles in Space Weather](https://github.com/TULEPS/tuleps_main/blob/master/SW_refs)
+- [Presentations from the Workshop "Ensemble Forecasts in Space Weather: Science and Operations"](https://github.com/TULEPS/tuleps_main/blob/master/workshop_m)
+- [Ensemble-related software (future)](https://github.com/TULEPS/tuleps_main/blob/master/soft_rep)
 
 ### Support or Contact
 
