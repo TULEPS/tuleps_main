@@ -10,7 +10,7 @@ The intention of this site is to provide the space weather community with a plac
 
 - [Important literature on ensembles](https://github.com/TULEPS/tuleps_main/blob/master/lit.md)
 - [References about ensembles in Space Weather](https://github.com/TULEPS/tuleps_main/blob/master/SW_refs.md)
-- [Presentations from the Workshop "Ensemble Forecasts in Space Weather: Science and Operations"](https://github.com/TULEPS/tuleps_main/blob/master/workshop_m.md)
+- [Material from the Workshop "Ensemble Forecasts in Space Weather: Science and Operations"](https://github.com/TULEPS/tuleps_main/blob/master/workshop_m.md)
 - [Ensemble-related software (future)](https://github.com/TULEPS/tuleps_main/blob/master/soft_rep)
 
 ### Events
