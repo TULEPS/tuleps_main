@@ -1,5 +1,7 @@
 ## References on Space Weather Ensembles
 
+This is a list of peer-reviewed articles on ensemble techniques on space weather. Articles are separated according to the space weather subfield they belong to.
+
 ### Solar
 - [Ensemble forecasting of major solar flares: First results](https://doi.org/10.1002/2015SW001195)
 
