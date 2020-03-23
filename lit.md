@@ -1,4 +1,7 @@
 ## Literature on Ensembles
+
+This is a non-exahistive list of references on ensemble techniques. In nany of these references ensembles are used in the context of terrestrial weather prediction.
+
 - [Ensemble forecasting](https://www.sciencedirect.com/science/article/pii/S0021999107000812?via%3Dihub)
 - [Comparison of a 51-Member Low-Resolution (TL399L62) Ensemble with a 6-Member High-Resolution (TL799L91) Lagged-Forecast Ensemble](https://doi.org/10.1175/2008MWR2430.1)
 - [On ensemble prediction using singular vectors started from forecasts](https://www.ecmwf.int/sites/default/files/elibrary/2005/10732-ensemble-prediction-using-singular-vectors-started-forecasts.pdf)
