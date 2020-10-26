@@ -1,6 +1,6 @@
 ## Welcome to the TULEPS site
 
-The **Testing, Understanding, and Leveraging Ensemble Predictions for Space Weather** team was first formed during the workshop [_Ensemble Forecasts in Space Weather: Science and Operations_](https://www.lorentzcenter.nl/lc/web/2019/1195/info.php3?wsid=1195&venue=Snellius) which took place at the Lorentz center in Leiden, The Netehrlands, on September 2-6, 2019.
+The **Testing, Understanding, and Leveraging Ensemble Predictions for Space Weather** team was first formed during the workshop [_Ensemble Forecasts in Space Weather: Science and Operations_](https://www.lorentzcenter.nl/lc/web/2019/1195/info.php3?wsid=1195&venue=Snellius) which took place at the Lorentz center in Leiden, The Netherlands, on September 2-6, 2019.
 
 The main goal of this working team is to coordinate, organize, and develope activities in order to advance the use of ensemble techniques in Space Weather forecasting. This team is multi-disciplinary and multi-focuse with members from different subfield of Spae Weather and Terrestrial Weather, academic institutions and operational centers.
 
