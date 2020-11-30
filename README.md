@@ -1,4 +1,4 @@
-![TULEPS_logo](https://github.com/TULEPS/tuleps_main/images/TULEPS_log.png)
+![TULEPS_logo](https://github.com/TULEPS/tuleps_main/images/TULEPS_logo.png)
 
 ## Welcome to the TULEPS site
 
