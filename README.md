@@ -1,4 +1,5 @@
-![TULEPS_logo](https://github.com/TULEPS/tuleps_main/tree/master/images/TULEPS_logo.png)
+![TULEPS_logo]
+(https://octodex.github.com/TULEPS/tuleps_main/images/TULEPS_logo.png)
 
 ## Welcome to the TULEPS site
 
