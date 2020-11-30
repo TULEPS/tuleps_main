@@ -1,4 +1,4 @@
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/TULEPS_log.pdf)
 
 ## Welcome to the TULEPS site
 
