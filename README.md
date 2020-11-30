@@ -1,5 +1,5 @@
-![TULEPS_logo](https://octodex.github.com/TULEPS/tuleps_main/images/TULEPS_logo.png)
-Format: ![Alt Text](url)
+![TULEPS_logo](https://github.com/TULEPS/tuleps_main/images/TULEPS_logo.png)
+
 
 ## Welcome to the TULEPS site
 
